@@ -1,4 +1,4 @@
-# 🎮 **My Game Web**  
+#  **CodeBreaker Duel 🕵️‍♂️💣**  
 
 Desarrollo de un juego de rol web con temática retro para disfrutar con amigos y familiares.  
 Un jugador define una **clave secreta** o **combinación de cables** y el tiempo límite, mientras el otro jugador debe usar las pistas para **desactivar la bomba** y ganar. ¡Pon a prueba tus habilidades estratégicas y de deducción!  
@@ -67,7 +67,7 @@ Un jugador define una **clave secreta** o **combinación de cables** y el tiempo
 ---
 
 ## 🚧 **Juego en Proceso**  
-Actualmente, **My Game Web** se encuentra en desarrollo activo. Las futuras actualizaciones incluirán mejoras en la jugabilidad, nuevas funcionalidades y más contenido para ofrecer una experiencia más inmersiva.  
+Actualmente, **CodeBreaker Duel 🕵️‍♂️💣** se encuentra en desarrollo activo. Las futuras actualizaciones incluirán mejoras en la jugabilidad, nuevas funcionalidades y más contenido para ofrecer una experiencia más inmersiva.  
 
 ---
 
