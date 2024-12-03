@@ -1,68 +1,36 @@
 #  ** Duel Breaker🕵️‍♂️💣**  
 
-Desarrollo de un juego de rol web con temática retro para disfrutar con amigos y familiares.  
-Un jugador define una **clave secreta** o **combinación de cables** y el tiempo límite, mientras el otro jugador debe usar las pistas para **desactivar la bomba** y ganar. ¡Pon a prueba tus habilidades estratégicas y de deducción!  
+es un juego web de rol para dos jugadores. El objetivo es simple: desactivar la bomba antes de que el tiempo se agote. Un jugador define las pistas y la clave o los cables, mientras el otro intenta desactivarla. Todo sucede en tiempo real y en una sola pantalla, ¡con un toque retro emocionante! 
+
+---
+## 🕹️ **Flujo del Juego**
+1. **Pantalla de Carga**: Animación inicial que introduce el ambiente del juego.
+2. **Menú Principal**:
+   - Opción para seleccionar el modo de juego:
+     - **Modo Clave**: Un jugador define una clave secreta y pistas.
+     - **Modo Cables**: Se deben cortar cables siguiendo las pistas dadas.
+3. **Configuración del Juego (Jugador 1)**:
+   - Define la clave o selecciona el cable correcto.
+   - Proporciona pistas para ayudar al segundo jugador.
+4. **Resolución del Juego (Jugador 2)**:
+   - Usa las pistas para desactivar la bomba antes de que el tiempo termine.
+   - Basado en su rendimiento, se muestra:
+     - **Victoria**: Si desactiva la bomba.
+     - **Derrota**: Si el tiempo se agota o falla.
 
 ---
 
-## 🛠️ **Tecnologías Utilizadas**  
-
-### **Frontend** 🌐  
-- **Angular 18**: Framework para la construcción de la interfaz de usuario.  
-- **HTML5 / SCSS**: Estructura y estilos personalizados para una experiencia visual retro.  
-- **TypeScript**: Lenguaje para una mejor gestión del código y tipado fuerte.  
-
-### **Backend** ⚙️  
-- **Node.js**: Plataforma para el manejo de la lógica del juego y comunicación.  
-- **Express.js**: Framework para la creación del API.  
----
-
-## 🎮 **Modos de Juego**  
-
-1. **🔐 Modo Clave:**  
-   - Jugador 1 define la clave y pistas.  
-   - Jugador 2 debe descifrar la clave antes de que el tiempo se acabe.  
-
-2. **💣 Modo Cables:**  
-   - Jugador 1 elige una combinación de cables a cortar.  
-   - Jugador 2 debe cortar los cables en el orden correcto antes de que explote la bomba.  
+## 🛠️ **Características Principales**
+- 🎨 **Estilo Retro**: Visuales inspirados en los videojuegos clásicos.
+- ⏲️ **Límite de Tiempo**: Tensión creciente con cada segundo que pasa.
+- 💡 **Pistas Dinámicas**: Retos únicos en cada partida.
+- 🏆 **Puntuación**: Evaluación del rendimiento con cada intento.
 
 ---
 
-## 🕹️ **Flujo del Juego**  
-
-1. **Pantalla Principal:**  
-   - Título del juego con estilo retro.  
-   - Opciones: **Modo Clave** y **Modo Cables**.  
-   - Acceso a configuración de música y efectos visuales.  
-
-2. **Fase de Preparación:**  
-   - Jugador 1 ingresa la clave o selecciona cables.  
-   - Configuración del tiempo límite.  
-
-3. **Fase de Juego:**  
-   - Jugador 2 intenta desactivar la bomba usando las pistas.  
-   - Retroalimentación visual y sonora durante el juego.  
-
-4. **Resultado:**  
-   - **🎉 Pantalla de Victoria** si el jugador desactiva la bomba.  
-   - **💥 Pantalla de Derrota** si el tiempo se acaba.  
-   - Opciones: **Reiniciar** o **Volver al Menú Principal**.  
+## 🚀 **Estado del Proyecto**
+⚠️ *Juego en proceso de desarrollo.* Se están implementando mejoras en el diseño, animaciones, y la lógica del juego para ofrecer una experiencia más fluida.
 
 ---
 
-## ✨ **Características Destacadas**  
-
-- 🎨 **Estilo Visual Retro**: Experiencia inmersiva inspirada en videojuegos clásicos.  
-- ⏱️ **Tiempo Límite Dinámico**: Configurable por el jugador para incrementar la tensión.  
-- 🏆 **Sistema de Puntuaciones**: Mide tu rendimiento y compite con amigos.  
-- 🔊 **Efectos Sonoros**: Música y sonidos dinámicos para aumentar la emoción.  
-
----
-
-## 🚧 **Juego en Proceso**  
-Actualmente, ** Duel Breaker🕵️‍♂️💣** se encuentra en desarrollo activo. Las futuras actualizaciones incluirán mejoras en la jugabilidad, nuevas funcionalidades y más contenido para ofrecer una experiencia más inmersiva.  
-
----
-
-¿Estás listo para desactivar la bomba y demostrar tus habilidades? ¡Prepárate para jugar! 😎
+¡Próximamente, más desafíos y modos para mantenerte al filo del asiento!
