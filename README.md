@@ -15,11 +15,6 @@ Un jugador define una **clave secreta** o **combinación de cables** y el tiempo
 ### **Backend** ⚙️  
 - **Node.js**: Plataforma para el manejo de la lógica del juego y comunicación.  
 - **Express.js**: Framework para la creación del API.  
-- **WebSockets**: Para la interacción en tiempo real entre jugadores.  
-
-### **Base de Datos** 🗄️  
-- **MongoDB** o **MySQL**: Para almacenamiento de partidas, puntuaciones y configuraciones (según preferencia).  
-
 ---
 
 ## 🎮 **Modos de Juego**  
@@ -60,7 +55,6 @@ Un jugador define una **clave secreta** o **combinación de cables** y el tiempo
 
 - 🎨 **Estilo Visual Retro**: Experiencia inmersiva inspirada en videojuegos clásicos.  
 - ⏱️ **Tiempo Límite Dinámico**: Configurable por el jugador para incrementar la tensión.  
-- 🌍 **Juego en Tiempo Real**: Comunicación entre jugadores mediante WebSockets.  
 - 🏆 **Sistema de Puntuaciones**: Mide tu rendimiento y compite con amigos.  
 - 🔊 **Efectos Sonoros**: Música y sonidos dinámicos para aumentar la emoción.  
 
