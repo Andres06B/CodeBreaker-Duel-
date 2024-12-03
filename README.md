@@ -1,6 +1,6 @@
 #  ** Duel Breaker🕵️‍♂️💣**  
 
-es un juego web de rol para dos jugadores. El objetivo es simple: desactivar la bomba antes de que el tiempo se agote. Un jugador define las pistas y la clave o los cables, mientras el otro intenta desactivarla. Todo sucede en tiempo real y en una sola pantalla, ¡con un toque retro emocionante! 
+Es un juego web de rol para dos jugadores. El objetivo es simple: desactivar la bomba antes de que el tiempo se agote. Un jugador define las pistas y la clave o los cables, mientras el otro intenta desactivarla. Todo sucede en tiempo real y en una sola pantalla, ¡con un toque retro emocionante! 
 
 ---
 ## 🕹️ **Flujo del Juego**
